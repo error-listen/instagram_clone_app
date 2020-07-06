@@ -74,5 +74,5 @@ With all dependencies installed and the environment properly configured, you can
 
 <h2>License</h2>
 
-This project is licensed under the MIT License - see the <a href="https://github.com/TemperoDeSal/movieApp/blob/master/LICENSE">LICENSE.md</a> file for details
+This project is licensed under the MIT License - see the <a href="https://github.com/error-listen/instagram_clone_app/blob/master/LICENSE">LICENSE.md</a> file for details
 
