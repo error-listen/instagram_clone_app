@@ -1,5 +1,7 @@
 # instagram_clone_app
 
+![Screen_shoots_instagram_clone](https://user-images.githubusercontent.com/66707613/86680692-349f0f00-bfd5-11ea-93e2-5c4c9f273a4d.jpg)
+
 <h2>About this Project</h2>
 Instagram clone with some features.
 
